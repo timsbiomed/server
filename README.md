@@ -99,23 +99,18 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 
 
-## Evaluation
+## [Evaluation](evaluation.md)
 
+## [Education](education.md)
 
-## Education
+## [Get involved](engagement.md)
 
-## Get involved
-We encourage the community to get involved. 
-
-We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. 
-Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
-
-Please tag any engagment related issues with "engagement".
 
 ## Working documents
-[Wiki](https://github.com/HOT-FHIR/server/wiki)
+* [Wiki](https://github.com/HOT-FHIR/server/wiki)
 
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
+* [Project folder on Google Drive](https://drive.google.com/drive/u/0/folders/1bWaY2zC1MgAenKk-KcTm7q2DNx1rznqY)
+
 
 ## Slack channel
 [The #hot-fhir slack channel](https://cd2h.slack.com/messages/CGCAPAANA) is accessible to onboarded participants. 
